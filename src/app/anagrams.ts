@@ -1,3 +1,3 @@
 export const anagrams = (words: string[]) => {
-  return words;
+  return [words];
 };
